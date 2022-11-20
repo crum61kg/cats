@@ -1,0 +1,11 @@
+header {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.container {
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: auto;
+}
